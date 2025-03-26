@@ -16,12 +16,10 @@ detailed insights into the following:
 6. Content Consumption Behavior: Patterns in total watch time, device preferences, and variations by user demographics.
 
 DataSet : 
-JotStar
 JotStar Content Consumption
 JotStar Content
 JotStar Subscribers
 
-LioCinema
 LioCinema Content Consumption
 LioCinema Content
 LioCinema Subscribers
